@@ -1,6 +1,6 @@
 ---
 title: 'Exercise 03: Improve and deploy your application'
-layout: default
+layout: docs
 nav_order: 4
 has_children: true
 ---

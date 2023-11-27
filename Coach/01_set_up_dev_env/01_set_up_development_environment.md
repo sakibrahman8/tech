@@ -1,6 +1,6 @@
 ---
 title: 'Exercise 01: Set up development environment'
-layout: default
+layout: coach
 nav_order: 2
 has_children: true
 ---

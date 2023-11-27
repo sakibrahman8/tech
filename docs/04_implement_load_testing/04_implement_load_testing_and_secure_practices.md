@@ -1,6 +1,6 @@
 ---
 title: 'Exercise 04: Implement load testing and secure practices'
-layout: default
+layout: docs
 nav_order: 5
 has_children: true
 ---

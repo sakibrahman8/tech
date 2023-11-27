@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% assign pages_list = site.pages | where_exp:"item", "item.url contains '/Coach/'" %}
+<nav>
+  {% for p in pages_list %}
+    <a href="{{ p.url }}">{{ p.title }}</a>
+  {% endfor %}
+</nav>
+
+{{ content }}

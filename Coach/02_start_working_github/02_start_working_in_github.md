@@ -1,6 +1,6 @@
 ---
 title: 'Exercise 02: Start working in GitHub'
-layout: default
+layout: coach
 nav_order: 3
 has_children: true
 ---

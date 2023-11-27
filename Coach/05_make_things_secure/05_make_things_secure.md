@@ -1,6 +1,6 @@
 ---
 title: 'Exercise 05: Make things secure'
-layout: default
+layout: coach
 nav_order: 6
 has_children: true
 ---
