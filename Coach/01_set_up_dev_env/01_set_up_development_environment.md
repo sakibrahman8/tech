@@ -2,6 +2,7 @@
 title: 'Exercise 01: Set up development environment'
 layout: default
 has_children: true
+nav_exclude: true
 ---
 
 # Exercise 01 Solution - Set up development environment
