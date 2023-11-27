@@ -1,7 +1,7 @@
 ---
 title: Introduction
 layout: home
-nav_exclude: true
+nav_order: 1
 ---
 
 # TechExcel: Implementing DevOps practices to accelerate developer productivity
