@@ -1,7 +1,6 @@
 ---
 title: 'Exercise 05: Make things secure'
 layout: default
-nav_order: 6
 has_children: true
 ---
 

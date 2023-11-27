@@ -1,7 +1,6 @@
 ---
 title: 'Exercise 02: Start working in GitHub'
 layout: default
-nav_order: 3
 has_children: true
 ---
 
