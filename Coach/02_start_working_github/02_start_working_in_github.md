@@ -1,8 +1,8 @@
 ---
 title: 'Exercise 02: Start working in GitHub'
 layout: default
+nav_order: 3
 has_children: true
-nav_exclude: true
 ---
 
 # Exercise 02 Solution - Start working in GitHub

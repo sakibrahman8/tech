@@ -1,8 +1,8 @@
 ---
 title: 'Exercise 04: Implement load testing and secure practices'
 layout: default
+nav_order: 5
 has_children: true
-nav_exclude: true
 ---
 
 # Exercise 04 Solution - Implement load testing and secure practices
